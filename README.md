@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and demonstrated how to use Adaptivecard in a react project. It also showcase how to create create a custom component using Fluent UI. 
 
 ## Available Scripts
 
